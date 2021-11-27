@@ -5,12 +5,12 @@ Em constante evolução. Busco sempre aprimorar meus conhecimentos e gosto de co
 
 Aprendi ao longo de minhas experiências profissionais que o trabalho em equipe nos leva a lugares onde jamais chegaríamos sozinhos, que colaboração e desenvolvimento em conjunto são a chave para superar os desafios diários e alcançar o sucesso.
   </p>
-  <div align="center">
+  
   <a href="https://github.com/gabriel-palhares">
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-palhares&layout=compact&langs_count=7&theme=dracula"/>
 </a></div>
 
-<div align="center" style="display: inline_block"><br>
+<div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-Js" height="auto" width="auto" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align="center" alt="Gabriel-React" height="auto" width="auto" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="Gabriel-NodeJS" height="auto" width="auto" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
