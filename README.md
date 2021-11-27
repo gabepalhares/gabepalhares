@@ -7,7 +7,7 @@ Aprendi ao longo de minhas experiências profissionais que o trabalho em equipe 
   </p>
   
   <a href="https://github.com/gabriel-palhares">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-palhares&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-palhares&layout=compact&langs_count=7&theme=dracula"/>
 </a></div>
 
 <div style="display: inline_block"><br>
