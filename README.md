@@ -1,9 +1,9 @@
 ### Oi, eu sou o <s>Goku</s> Gabriel!
 <p>Aluno de Análise e Desenvolvimento de Sistemas na PUC Minas
 
-Em constante evolução. Busco sempre aprimorar meus conhecimentos e gosto de conhecer novas metodologias, acredito que nunca devemos parar a busca por mais saber.
+Em constante evolução. Busco sempre aprimorar meus conhecimentos e gosto de conhecer novas metodologias, acredito que nunca devemos parar a busca por aprendizado.
 
-Aprendi ao longo de minhas experiências profissionais que o trabalho em equipe nos leva a lugares onde jamais chegaríamos sozinhos, que colaboração e desenvolvimento em conjunto são a chave para superar os desafios diários e alcançar o sucesso.
+Descobri ao longo de minhas experiências profissionais que o trabalho em equipe nos leva a lugares onde jamais chegaríamos sozinhos, que colaboração e desenvolvimento em conjunto são a chave para superar os desafios diários e alcançar o sucesso.
   </p>
   
   <a href="https://github.com/gabriel-palhares">
