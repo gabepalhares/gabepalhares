@@ -6,10 +6,10 @@ Em constante evolução. Busco sempre aprimorar meus conhecimentos e gosto de co
 Descobri ao longo de minhas experiências profissionais que o trabalho em equipe nos leva a lugares onde jamais chegaríamos sozinhos, que colaboração e desenvolvimento em conjunto são a chave para superar os desafios diários e alcançar o sucesso.
   </p>
   
- <div align="center">
+ <div align="justify">
   <a href="https://github.com/gabriel-palhares">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=gabriel-palhares&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="140em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-palhares&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-palhares&layout=compact&langs_count=7&theme=dracula"/>
 </a></div>
 
 <div style="display: inline_block"><br>
