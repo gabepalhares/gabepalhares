@@ -1,4 +1,4 @@
-### Oi, eu sou o <s>Goku</s> Gabriel!
+### Gabriel Palhares
 <p>Aluno de Análise e Desenvolvimento de Sistemas na PUC Minas
 
 Em constante evolução. Busco sempre aprimorar meus conhecimentos e gosto de conhecer novas metodologias, acredito que nunca devemos parar a busca por aprendizado.
