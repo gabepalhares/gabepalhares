@@ -1,5 +1,5 @@
 ### Gabriel Palhares
-<p>Atualmente cursando o 3º semestre em Análise e Desenvolvimento de Sistemas na PUC Minas e estou em busca de um estágio como primeira oportunidade na área!
+<p>Aluno de Análise e Desenvolvimento de Sistemas na PUC Minas e estou em busca de um estágio como primeira oportunidade na área!
 
 Em constante evolução. Busco sempre me aprimorar e gosto de conhecer novas metodologias, acredito que nunca devemos parar a busca por mais conhecimento.
 
