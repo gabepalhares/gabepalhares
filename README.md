@@ -1,9 +1,9 @@
 ### Gabriel Palhares
-<p>Aluno de Análise e Desenvolvimento de Sistemas na PUC Minas
+<p>Atualmente cursando o 3º semestre em Análise e Desenvolvimento de Sistemas na PUC Minas e estou em busca de um estágio como primeira oportunidade na área!
 
-Em constante evolução. Busco sempre aprimorar meus conhecimentos e gosto de conhecer novas metodologias, acredito que nunca devemos parar a busca por aprendizado.
+Em constante evolução. Busco sempre me aprimorar e gosto de conhecer novas metodologias, acredito que nunca devemos parar a busca por mais conhecimento.
 
-Descobri ao longo de minhas experiências profissionais que o trabalho em equipe nos leva a lugares onde jamais chegaríamos sozinhos, que colaboração e desenvolvimento em conjunto são a chave para superar os desafios diários e alcançar o sucesso.
+Aprendi ao longo de minhas experiências profissionais que o trabalho em equipe nos leva a lugares onde não chegaríamos sozinhos, que colaboração e desenvolvimento em conjunto são a chave para superar os desafios diários e alcançar o sucesso.
   </p>
   
  <div align="justify">
