@@ -1,9 +1,9 @@
 ### Gabriel Palhares
 <p>Em constante evolução. Busco sempre me aprimorar e gosto de conhecer novas metodologias, acredito que nunca devemos parar a busca por mais conhecimento.
 
-Aprendi ao longo de minhas experiências profissionais que o trabalho em equipe nos leva a lugares onde não chegaríamos sozinhos, que colaboração e desenvolvimento em conjunto são a chave para superar os desafios diários e alcançar o sucesso.
+Aprendi ao longo de minhas experiências profissionais que o trabalho em equipe nos leva a lugares onde não chegaríamos sozinhos, que colaboração e desenvolvimento em conjunto são a chave para superar os desafios diários e <b>evoluir</b>.
 
-Atualmente cursando o 3º semestre em Análise e Desenvolvimento de Sistemas na PUC Minas</p>
+- Análise e Desenvolvimento de Sistemas</p>
   
  <div align="justify">
   <a href="https://github.com/gabriel-palhares">
