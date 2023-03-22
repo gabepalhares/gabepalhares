@@ -13,7 +13,7 @@ Always looking forward to improve myself.
       "Java",
       "Spring Boot|Cloud",
       "PostgreSQL",
-      "MongoDB",
+      "MongoDB"
   }
 ```
 <br>
