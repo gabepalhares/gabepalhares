@@ -10,10 +10,10 @@ Always looking forward to improve myself.
 ```
   {
     tecnologies:
-      "Java",
-      "Spring Boot|Cloud",
-      "PostgreSQL",
-      "MongoDB"
+      "Java";
+      "Spring Boot|Cloud";
+      "PostgreSQL";
+      "MongoDB";
   }
 ```
 <br>
