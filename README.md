@@ -1,4 +1,4 @@
-### Gabriel Eduardo
+### Gabriel Palhares
 
 Software Developer based in Brazil.
 
