@@ -28,7 +28,7 @@ Always looking forward to improve myself.
 </div>
 
 ##
-*"We've always defined ourselves by the ability to overcome the impossible. And we count these moments. These moments when we dare to aim higher, to break barriers, to reach for the stars, to make the unknown known. We count these moments as our proudest achievements... And that our greatest accomplishments cannot be behind us, because our destiny lies above us."* - Cooper, 'Interstellar'.
+*"We've always defined ourselves by the ability to overcome the impossible. And we count these moments. These moments when we dare to aim higher, to break barriers, to reach for the stars, to make the unknown known. We count these moments as our proudest achievement. But we lost all that. Or perhaps we've just forgotten that we are still pioneers. And we've barely begun. And that our greatest accomplishments cannot be behind us, because our destiny lies above us."* - Cooper, 'Interstellar'.
   
 <div align="justify">
 <a href="https://github.com/gabriel-palhares">
