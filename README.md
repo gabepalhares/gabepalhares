@@ -1,29 +1,18 @@
 ### Gabriel Palhares
 
-Software Developer based in Brazil.
+Hi! I'm a 25-year-old software developer based in Brazil. I enjoy coding, sports cars and ball games.<br>
+Currently, I'm deeply focused on mastering my skills in the Java ecosystem, but I'm also interested in learning Golang!<br>
+I started learning computer science in 2021, and since then, I'm always looking forward to improve myself.<br>
+Please feel free to request any further information. You can reach me at:
 
 <a href = "mailto:gabrielpalharesdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabrieleduardo-" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-Always looking forward to improve myself.
-
 ```
   {
-    tecnologies:
-      "Java";
-      "Spring Boot|Cloud";
-      "PostgreSQL";
-      "MongoDB";
+    tecnologies: "Java", "Spring Boot & Cloud", "PostgreSQL", "MongoDB", "AWS";
   }
 ```
-<br>
-<div style="display: inline_block">
-  <img align="center" alt="Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
-  <img align="center" alt="Spring" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain-wordmark.svg"/>
-  <img align="center" alt="PostgreSQL" height="55" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/>
-  <img align="center" alt="MongoDb" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
-  <img align="center" alt="Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/>
-</div>
 
 ##
 *"We've always defined ourselves by the ability to overcome the impossible. And we count these moments. These moments when we dare to aim higher, to break barriers, to reach for the stars, to make the unknown known. We count these moments as our proudest achievement. But we lost all that. Or perhaps we've just forgotten that we are still pioneers. And we've barely begun. And that our greatest accomplishments cannot be behind us, because our destiny lies above us."* - Cooper, 'Interstellar'.
