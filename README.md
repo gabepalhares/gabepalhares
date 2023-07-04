@@ -1,8 +1,10 @@
 ### Gabriel Palhares
 
-Hi! I'm a 25-year-old software developer based in Brazil. I enjoy coding, sports cars and ball games.<br>
-Currently, I'm deeply focused on mastering my skills in the Java ecosystem, but I'm also interested in learning Golang!<br>
-I started learning computer science in 2021, and since then, I'm always looking forward to improve myself.<br>
+Hi! I'm a 25-year-old software developer based in Brazil. I enjoy programming, engaging in sports in general, and I'm passionate about sports cars.
+
+My first encounter with programming was during my childhood, but it was only in 2021 that I started learning computer science, and since then, I'm always been looking forward to improving myself. Currently, I'm deeply focused on mastering my skills in the Java ecosystem, but I'm also interested in learning Golang!
+My motto and goal are to always keep evolving. Never stop learning.
+
 Please feel free to request any further information. You can reach me at:
 
 <a href = "mailto:gabrielpalharesdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
