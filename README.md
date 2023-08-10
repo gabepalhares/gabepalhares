@@ -1,5 +1,5 @@
 ### Gabriel Palhares
-<a href="https://leetcode.com/gabriel-palhares/">Leetcode profile</a> | <a href="https://dev.to/palhares">Dev.to</a> | Portfolio
+<a href="https://leetcode.com/gabriel-palhares/">Leetcode profile</a> | <a href="https://dev.to/palhares">Dev.to</a> | <a href="https://gabrielpalhares.dev">Portfolio</a>
 
  You can reach me at:
  
