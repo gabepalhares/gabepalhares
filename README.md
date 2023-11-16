@@ -13,7 +13,7 @@
   
 <div align="justify">
 <a href="https://github.com/gabriel-palhares">
-<img height="130em" src="https://github-readme-stats.vercel.app/api?username=gabriel-palhares&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+<img height="130em" src="https://github-readme-stats.vercel.app/api?username=gabriel-palhares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></a>
 <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-palhares&layout=compact&langs_count=7&theme=dracula"/>
-</a></div>
+</div>
   
