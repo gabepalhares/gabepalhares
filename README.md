@@ -1,6 +1,6 @@
 ### Gabriel Palhares
 
-<a href="https://leetcode.com/gabriel-palhares/">Leetcode</a> | <a href="https://dev.to/palhares">Dev.to</a> | <a href="https://gabrielpalhares.dev">Portfolio</a> | PlhrsBunker
+<a href="https://leetcode.com/gabriel-palhares/">Leetcode</a> | <a href="https://dev.to/palhares">Dev.to</a> | <a href="https://gabrielpalhares.dev">Portfolio</a> | g-bunker
  
  You can reach me at:
  
