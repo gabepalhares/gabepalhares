@@ -1,12 +1,12 @@
 ### Gabriel Palhares
 
-<a href="https://leetcode.com/gabriel-palhares/">Leetcode</a> | <a href="https://dev.to/palhares">Dev.to</a> | g-bunker
+<a href="https://leetcode.com/gabriel-palhares/">Leetcode</a> | <a href="https://dev.to/palhares">Dev.to</a> | <a href="https://gabrielpalhares.dev/gbunker/">g-bunker</a>
  
- You can reach me at:
+ You can reach or support me at:
  
 <a href = "mailto:gabrielpalharesdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/gabrielpalhares-" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-#
+<a href="https://www.linkedin.com/in/gabrielpalhares-" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.buymeacoffee.com/gabrielpalhares" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" target="_blank">
 
 *"We've always defined ourselves by the ability to overcome the impossible. And we count these moments. These moments when we dare to aim higher, to break barriers, to reach for the stars, to make the unknown known. We count these moments as our proudest achievement. But we lost all that. Or perhaps we've just forgotten that we are still pioneers. And we've barely begun. And that our greatest accomplishments cannot be behind us, because our destiny lies above us."* - Cooper, **Interstellar**.
   
