@@ -1,8 +1,8 @@
-#### Eaí 👋
+#### Gabriel Palhares
 
-Sou um desenvolvedor fullstack e um eterno estudante de ciência da computação. Gosto de quebrar as barreiras entre o mundo digital e a realidade, por isso, além de trabalhar com tecnologia e ser apaixonado por jogos de computador, sempre digo por aí que meus hobbies são mountain bikes e colecionar pores do sol. Inspirado na ideia do método <a href="https://zettelkasten.de/posts/overview/">Zettelkasten</a>, estou criando o <a href="https://gabrielpalhares.dev/gbunker/">G-Bunker</a>, uma forma de centralizar e compartilhar tudo que estou aprendendo. Também estou construindo o <a href="https://gabrielpalhares.dev/crewdaladeira/">Crew da Ladeira</a>, um lugar para pessoas que, assim como eu, são apaixonadas por um estilo de vida aventureiro e conectado com a natureza. De vez em quando, soluciono alguns desafios no <a href="https://leetcode.com/gabriel-palhares/">Leetcode</a> e escrevo <a href="https://dev.to/gabriel-palhares">artigos</a> sobre tecnologia.
+Sou um desenvolvedor fullstack e um eterno estudante de ciência da computação. Gosto de quebrar as barreiras entre o mundo digital e a realidade, por isso, além de trabalhar com tecnologia e ser apaixonado por sci-fi, sempre digo por aí que meus hobbies são mountain biking e colecionar pores do sol. Inspirado na ideia do método <a href="https://zettelkasten.de/posts/overview/">Zettelkasten</a>, estou criando o <a href="https://gabrielpalhares.dev/gbunker/">G-Bunker</a>, uma forma de centralizar e compartilhar tudo que estou aprendendo. Também estou construindo o <a href="https://gabrielpalhares.dev/crewdaladeira/">Crew da Ladeira</a>, um lugar para pessoas que, assim como eu, são apaixonadas por um estilo de vida aventureiro e conectado com a natureza. De vez em quando, soluciono alguns desafios no <a href="https://leetcode.com/gabriel-palhares/">Leetcode</a> e escrevo <a href="https://dev.to/gabriel-palhares">artigos</a> sobre tecnologia.
 
-Você pode descobrir mais sobre mim e o meu trabalho acessando o meu <a href="https://gabrielpalhares.dev/">blog.</a>
+Você pode descobrir mais sobre mim e o meu trabalho acessando o <a href="https://gabrielpalhares.dev/TechTrails">Tech Trails</a>, meu blog pessoal.
 
 ---
  
