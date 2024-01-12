@@ -1,16 +1,17 @@
 #### Gabriel Palhares
 
-Sou um desenvolvedor fullstack e um eterno estudante de ciência da computação. Gosto de quebrar as barreiras entre o mundo digital e a realidade, por isso, além de trabalhar com tecnologia e ser apaixonado por sci-fi, sempre digo por aí que meus hobbies são mountain biking e colecionar pores do sol. Inspirado na ideia do método <a href="https://zettelkasten.de/posts/overview/">Zettelkasten</a>, estou criando o <a href="https://gabrielpalhares.dev/gbunker/">G-Bunker</a>, uma forma de centralizar e compartilhar tudo que estou aprendendo. Também estou construindo o <a href="https://gabrielpalhares.dev/crewdaladeira/">Crew da Ladeira</a>, um lugar para pessoas que, assim como eu, são apaixonadas por um estilo de vida aventureiro e conectado com a natureza. De vez em quando, soluciono alguns desafios no <a href="https://leetcode.com/gabriel-palhares/">Leetcode</a> e escrevo <a href="https://dev.to/gabriel-palhares">artigos</a> sobre tecnologia.
+I am a brazilian full stack developer and a lifelong computer science student. I work on providing solutions in both frontend and backend development, using technologies such as JavaScript, TypeScript, React.js and Node.js.
 
-Você pode descobrir mais sobre mim e o meu trabalho acessando o <a href="https://gabrielpalhares.dev/techtrails">Tech Trails</a>, meu blog pessoal.
+Inspired by the idea of the Zettelkasten method, I am creating <a href="https://gabrielpalhares.dev/gbunker/">G-Bunker</a>, a way to centralize and share everything I am learning.
+Sometimes, I do some code challenges on <a href="https://leetcode.com/gabriel-palhares/">LeetCode</a> and also write <a href="https://dev.to/gabriel-palhares">articles</a> about technology. I have a blog called <a href="https://gabrielpalhares.dev/techtrails">Tech Trails</a>.
+
+You can reach out to me via LinkedIn or my professional email. Additionally, if you would like to support me, you can buy me a coffee.
+ 
+<a href="https://www.linkedin.com/in/gabrielpalhares-" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:gabrielpalharesdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.buymeacoffee.com/gabrielpalhares" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" target="_blank"></a>
 
 ---
- 
-**Se quiser, pode se conectar comigo (ou me comprar um café!) nas seguintes plataformas:**
- 
-<a href = "mailto:gabrielpalharesdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/gabrielpalhares-" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://www.buymeacoffee.com/gabrielpalhares" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" target="_blank"></a>
 
 *"Maybe we've spent too long trying to figure all this out with theory. [...] Love is the one thing that we're capable of perceiving, that transcends dimensions of time and space."* - Brand, **Interstellar**.
   
