@@ -5,7 +5,7 @@ I am a brazilian full stack developer and a lifelong computer science student. I
 Inspired by the idea of the Zettelkasten method, I am creating <a href="https://gabrielpalhares.dev/gbunker/">G-Bunker</a>, a way to centralize and share everything I am learning.
 Sometimes, I do some code challenges on <a href="https://leetcode.com/gabriel-palhares/">LeetCode</a> and also write <a href="https://dev.to/gabriel-palhares">articles</a> about technology. I have a blog called <a href="https://gabrielpalhares.dev/techtrails">Tech Trails</a>.
 
-You can reach out to me via LinkedIn or my professional email. Additionally, if you would like to support me, you can buy me a coffee.
+You can reach out to me via LinkedIn or my professional e-mail. If you would like to support me, you can also buy me a coffee.
  
 <a href="https://www.linkedin.com/in/gabrielpalhares-" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:gabrielpalharesdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
