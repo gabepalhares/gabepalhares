@@ -7,11 +7,10 @@ When I'm not coding, you'll find me enjoying mountain biking and living an outdo
 Inspired by the idea of the Zettelkasten method, I am building <a href="https://gabrielpalhares.dev/gbunker/">G-Bunker</a>, a way to centralize and share everything I am learning.
 Sometimes, I do some code challenges on <a href="https://leetcode.com/gabriel-palhares/">LeetCode</a> and also write <a href="https://dev.to/gabriel-palhares">articles</a> about technology. I have a blog called <a href="https://gabrielpalhares.dev/techtrails">Tech Trails</a>.
 
-You can reach out to me via LinkedIn or my professional e-mail. If you would like to support me, you can also buy me a coffee.
+You can reach out to me via LinkedIn or my professional e-mail.
  
 <a href="https://www.linkedin.com/in/gabrielpalhares-" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:gabrielpalharesdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.buymeacoffee.com/gabrielpalhares" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" target="_blank"></a>
 
 ---
 
