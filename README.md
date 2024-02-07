@@ -5,7 +5,7 @@ I work on providing solutions in both frontend and backend development, using te
 When I'm not coding, you'll find me enjoying mountain biking and living an outdoor lifestyle: collecting sunsets and exploring nature.
 
 Inspired by the idea of the Zettelkasten method, I am building <a href="https://gabrielpalhares.dev/garden/">G.arden</a>, a way to centralize and share everything I am learning.
-Sometimes, I do some code challenges on <a href="https://leetcode.com/gabriel-palhares/">LeetCode</a> and also write <a href="https://dev.to/gopherwaves">articles</a> about technology. I have a blog called <a href="https://gabrielpalhares.dev/techtrails">Tech Trails</a>.
+Sometimes, I do some code challenges on <a href="https://leetcode.com/gopherwaves/">LeetCode</a> and also write <a href="https://dev.to/gopherwaves">articles</a> about technology. I have a blog called <a href="https://gabrielpalhares.dev/techtrails">Tech Trails</a>.
 
 You can reach out to me via LinkedIn or my professional e-mail.
  
