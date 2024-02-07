@@ -17,7 +17,7 @@ You can reach out to me via LinkedIn or my professional e-mail.
 *"Maybe we've spent too long trying to figure all this out with theory. [...] Love is the one thing that we're capable of perceiving, that transcends dimensions of time and space."* - Brand, **Interstellar**.
   
 <div align="justify">
-<a href="https://github.com/gabriel-palhares">
+<a href="https://github.com/gopherwaves">
 <img height="130em" src="https://github-readme-stats.vercel.app/api?username=gabriel-palhares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></a>
 <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-palhares&layout=compact&langs_count=7&theme=dracula"/>
 </div>
