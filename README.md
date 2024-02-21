@@ -1,4 +1,4 @@
-#### [Gabriel Palhares](gabrielpalhares.dev)
+#### [Gabriel Palhares](https://gabrielpalhares.dev)
 
 I am a brazilian full stack developer and a lifelong computer science student.
 I work on providing solutions in both frontend and backend development, using technologies such as JavaScript, TypeScript, React.js and Node.js.
