@@ -1,7 +1,7 @@
 #### [Gabriel Palhares](https://gabrielpalhares.dev)
 
 I am a brazilian full stack developer and a lifelong computer science student.
-I work on providing solutions in both frontend and backend development, using technologies such as JavaScript, TypeScript, React.js and Node.js.
+I work on providing solutions in both frontend and backend development, using programming languages such as JavaScript, TypeScript, Go, and technologies like React.js and Node.js.
 When I'm not coding, you'll find me enjoying mountain biking and living an outdoor lifestyle.
 
 <a href="https://dev.to/minortypo" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" target="_blank"></a>
