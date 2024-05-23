@@ -1,15 +1,20 @@
-#### [Gabriel Palhares](https://gabrielpalhares.dev)
+### [Hi, my name is Gabriel](https://gabrielpalhares.dev)
 
-I am a brazilian full stack developer and a lifelong computer science student.
-I work on providing solutions in both frontend and backend development, using technologies such as JavaScript, TypeScript, React.js and Node.js
+I am a brazilian software engineer and a lifelong computer science student.
+I work on providing solutions in both frontend and backend development, using technologies such as Typescript, React, Node, Go, PostgreSQL and MongoDB.
 When I'm not coding, you'll find me enjoying mountain biking and living an outdoor lifestyle.
+
+#### Skills and interests
+
+- Computer Science
+- Site Reliability Engineering and DevOps
+- Functional Programming
+- Fullstack Development
+
+#### Reach me at:
 
 <a href="https://dev.to/minortypo" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" target="_blank"></a>
 <a href="mailto:gabrielpalharesdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-<a href="https://github.com/minortypo">
-<img height="170rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minortypo&layout=compact&langs_count=6&theme=dracula"/>
-</a>
 
 ---
 
