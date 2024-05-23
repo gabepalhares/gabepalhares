@@ -7,11 +7,10 @@ When I'm not coding, you'll find me enjoying mountain biking and living an outdo
 <a href="https://dev.to/minortypo" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" target="_blank"></a>
 <a href="mailto:gabrielpalharesdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
----
-
-*"Maybe we've spent too long trying to figure all this out with theory. [...] Love is the one thing that we're capable of perceiving, that transcends dimensions of time and space."* - Brand, **Interstellar**.
-  
-<div align="justify">
 <a href="https://github.com/minortypo">
 <img height="170rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minortypo&layout=compact&langs_count=6&theme=dracula"/>
-</div>
+</a>
+
+---
+
+*"To be frank, I think his world had vanished long before he ever entered it - but, I will say: he certainly sustained the illusion with a marvelous grace!"* - Mr. Moustafa, **The Grand Budapest Hotel**.
