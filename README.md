@@ -13,6 +13,5 @@ When I'm not coding, you'll find me enjoying mountain biking and living an outdo
   
 <div align="justify">
 <a href="https://github.com/minortypo">
-<img height="130em" src="https://github-readme-stats.vercel.app/api?username=minortypo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&rank_icon=github&card"/></a>
-<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minortypo&layout=compact&langs_count=6&theme=dracula"/>
+<img height="170rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minortypo&layout=compact&langs_count=6&theme=dracula"/>
 </div>
