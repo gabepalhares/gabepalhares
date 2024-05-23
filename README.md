@@ -1,4 +1,4 @@
-### [Hi, my name is Gabriel](https://gabrielpalhares.dev)
+### Hi, my name is Gabriel
 
 I am a brazilian software engineer and a lifelong computer science student.
 I work on providing solutions in both frontend and backend development, using technologies such as Typescript, React, Node, Go, PostgreSQL and MongoDB.
