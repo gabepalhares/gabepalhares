@@ -8,7 +8,7 @@ When I'm not coding, you'll find me enjoying mountain biking and living an outdo
 
 - Computer Science
 - Site Reliability Engineering and DevOps
-- Functional Programming
+- Fintechs and payment solutions
 - Fullstack Development
 
 #### Reach me at:
