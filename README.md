@@ -6,5 +6,5 @@ When I'm not coding, you'll find me enjoying mountain biking and living an outdo
 
 #### Reach me at:
 
-- <a href="https://dev.to/minortypo">dev.to</a>
 - <a href="mailto:contact@gabrielpalhares.dev">e-mail</a>
+- <a href="https://dev.to/minortypo">dev.to</a>
