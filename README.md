@@ -1,4 +1,4 @@
-### Gabriel Palhares 
+### Software Engineer - Full-Stack Developer
 
 **Hi, my name is Gabriel,** also known as **minortypo.** I am a brazilian software engineer and a lifelong computer science student.
 
