@@ -1,9 +1,7 @@
-### Hey there, welcome!
+### Hey there!
 
-My name is **Gabriel Palhares** and I'm a Software Engineer.
-
-- I'm interested in computer science, distributed systems, and software development.
-- Passionate about design, photography, mountain biking, and nature.
+- I'm interested in computer science, web development, and building scalable solutions.
+- Passionate about photography, camping, and mountain biking.
 - Born and living in Brazil.
 
 You can find more about me at https://gabrielpalhares.dev
