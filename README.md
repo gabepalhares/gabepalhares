@@ -1,4 +1,4 @@
-### Hey there!
+### Hey there, welcome!
 
 - I'm interested in computer science, web development, and building scalable solutions.
 - Passionate about photography, camping, and mountain biking.
