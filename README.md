@@ -1,7 +1,3 @@
-### Hey there, welcome!
-
-- I'm interested in computer science, web development, and building scalable solutions.
-- Passionate about photography, camping, and mountain biking.
-- Born and living in Brazil.
+Full stack developer, self-taught in Computer Science, and currently pursuing a degree in Systems Analysis and Development at PUC Minas. Enthusiast of technology and computers, always eager to work and learn in collaborative teams to solve human problems.
 
 You can find more about me at https://gabrielpalhares.dev
